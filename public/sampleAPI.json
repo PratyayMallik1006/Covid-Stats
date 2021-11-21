@@ -1,0 +1,199 @@
+[
+    {
+      "id": "IN-MH",
+      "state": "Maharashtra",
+      "active": 6939,
+      "confirmed": 8590,
+      "recovered": 1282,
+      "deaths": 369,
+      "cChanges": 0,
+      "rChanges": 0,
+      "dChanges": 0,
+      "districtData": [
+        {
+          "id": "Mumbai",
+          "state": null,
+          "name": "Mumbai",
+          "confirmed": 5776,
+          "recovered": null,
+          "deaths": null,
+          "oldConfirmed": null,
+          "oldRecovered": null,
+          "oldDeaths": null
+        },
+        {
+          "id": "Pune",
+          "state": null,
+          "name": "Pune",
+          "confirmed": 1099,
+          "recovered": null,
+          "deaths": null,
+          "oldConfirmed": null,
+          "oldRecovered": null,
+          "oldDeaths": null
+        },
+        {
+          "id": "Thane",
+          "state": null,
+          "name": "Thane",
+          "confirmed": 752,
+          "recovered": null,
+          "deaths": null,
+          "oldConfirmed": null,
+          "oldRecovered": null,
+          "oldDeaths": null
+        }
+      ]
+    },
+    {
+        "id": "IN-TN",
+        "state": "Tamil Nadu",
+        "active": 4939,
+        "confirmed": 5590,
+        "recovered": 282,
+        "deaths": 369,
+        "cChanges": 0,
+        "rChanges": 0,
+        "dChanges": 0,
+        "districtData": [
+          {
+            "id": "Mumbai",
+            "state": null,
+            "name": "Mumbai",
+            "confirmed": 5776,
+            "recovered": null,
+            "deaths": null,
+            "oldConfirmed": null,
+            "oldRecovered": null,
+            "oldDeaths": null
+          },
+          {
+            "id": "Pune",
+            "state": null,
+            "name": "Pune",
+            "confirmed": 1099,
+            "recovered": null,
+            "deaths": null,
+            "oldConfirmed": null,
+            "oldRecovered": null,
+            "oldDeaths": null
+          },
+          {
+            "id": "Thane",
+            "state": null,
+            "name": "Thane",
+            "confirmed": 752,
+            "recovered": null,
+            "deaths": null,
+            "oldConfirmed": null,
+            "oldRecovered": null,
+            "oldDeaths": null
+          }
+        ]
+    },
+    {
+        "id": "IN-MP",
+        "state": "Madhya Pradesh",
+        "active": 3939,
+        "confirmed": 590,
+        "recovered": 282,
+        "deaths": 69,
+        "cChanges": 0,
+        "rChanges": 0,
+        "dChanges": 0,
+        "districtData": [
+          
+          
+          {
+            "id": "Thane",
+            "state": null,
+            "name": "Thane",
+            "confirmed": 752,
+            "recovered": null,
+            "deaths": null,
+            "oldConfirmed": null,
+            "oldRecovered": null,
+            "oldDeaths": null
+    }
+        ]
+    },
+
+    {
+        "id": "IN-AN",
+        "state": "Andaman and Nicobar Islands",
+        "active": 539,
+        "confirmed": 490,
+        "recovered": 82,
+        "deaths": 9,
+        "cChanges": 0,
+        "rChanges": 0,
+        "dChanges": 0,
+        "districtData": [
+          
+          
+          {
+            "id": "Thane",
+            "state": null,
+            "name": "Thane",
+            "confirmed": 752,
+            "recovered": null,
+            "deaths": null,
+            "oldConfirmed": null,
+            "oldRecovered": null,
+            "oldDeaths": null
+    }
+        ]
+    },
+    {
+        "id": "IN-AP",
+        "state": "Andhra Pradesh",
+        "active": 5539,
+        "confirmed": 1490,
+        "recovered": 2282,
+        "deaths": 479,
+        "cChanges": 0,
+        "rChanges": 0,
+        "dChanges": 0,
+        "districtData": [
+          
+          
+          {
+            "id": "Thane",
+            "state": null,
+            "name": "Thane",
+            "confirmed": 752,
+            "recovered": null,
+            "deaths": null,
+            "oldConfirmed": null,
+            "oldRecovered": null,
+            "oldDeaths": null
+    }
+        ]
+    },
+    {
+        "id": "IN-AR",
+        "state": "Arunachal Pradesh",
+        "active": 39,
+        "confirmed": 49,
+        "recovered": 22,
+        "deaths": 4,
+        "cChanges": 0,
+        "rChanges": 0,
+        "dChanges": 0,
+        "districtData": [
+          
+          
+          {
+            "id": "Thane",
+            "state": null,
+            "name": "Thane",
+            "confirmed": 752,
+            "recovered": null,
+            "deaths": null,
+            "oldConfirmed": null,
+            "oldRecovered": null,
+            "oldDeaths": null
+    }
+        ]
+    }
+  ]

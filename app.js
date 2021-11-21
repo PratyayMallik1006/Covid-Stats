@@ -11,7 +11,7 @@ app.use(bp.urlencoded({
 
 app.use(express.static(__dirname + '/public'));
 
-const db = "mongodb+srv://kvssankar:sankarvishnu23@cluster1.uacfw.mongodb.net/webproj?retryWrites=true&w=majority";
+const db = "mongodb://localhost:27017/covidDB";
 
 var userSchema = new mongoose.Schema({
     volunteer: String,

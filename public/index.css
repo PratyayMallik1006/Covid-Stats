@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+* {
+  font-family: "Montserrat", Arial, sans-serif;
+  overflow-x: hidden;
+}
+
+.chart--container {
+  min-height: 530px;
+  width: 100%;
+  height: 100%;
+}
+
+.zc-ref {
+  display: none;
+}
+
+.listy {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 50px;
+}
